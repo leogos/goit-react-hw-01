@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 32px;
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+p {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
