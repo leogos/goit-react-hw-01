@@ -1,0 +1,36 @@
+.card {
+    width: 170px;
+    padding: 24px 16px;
+    border: 2px solid #000;
+    border-radius: 8px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.avatar {
+    display: block;
+    width: 96px;
+    height: 96px;
+    margin: 0 auto 20px;
+}
+
+.name {
+    margin-bottom: 12px;
+    font-size: 36px;
+    line-height: 1.2;
+    color: #000;
+}
+
+.online,
+.offline {
+    font-size: 24px;
+    line-height: 1.2;
+}
+
+.online {
+    color: #2e7d32;
+}
+
+.offline {
+    color: #e53935;
+}
