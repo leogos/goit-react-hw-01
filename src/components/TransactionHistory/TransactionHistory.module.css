@@ -1,0 +1,31 @@
+.table {
+    width: 820px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-size: 24px;
+    line-height: 1.2;
+    color: #000;
+}
+
+.headerCell {
+    padding: 16px;
+    border: 1px solid #000;
+    background-color: #242424;
+    color: #fff;
+    font-weight: 700;
+    text-align: center;
+}
+
+.cell {
+    padding: 14px 16px;
+    border: 1px solid #000;
+    text-align: center;
+}
+
+.row:nth-child(even) {
+    background-color: #d3d3d3;
+}
+
+.row:nth-child(odd) {
+    background-color: #fff;
+}
